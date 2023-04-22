@@ -134,7 +134,7 @@ const cn = {
       NoAccess: "输入 API Key 或访问密码查看余额",
     },
     AccessCode: {
-      Title: "访问密码，如若没有访问密码请到<a href="https://chat.cx202.com/" target="_blank">进行购买</a>【永久使用】",
+      Title: "访问密码，如若没有访问密码请到chat.cx202.com/进行购买【永久使用】",
       SubTitle: "已开启加密访问",
       Placeholder: "请输入访问密码",
     },
